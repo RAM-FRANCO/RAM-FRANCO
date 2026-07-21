@@ -2,9 +2,9 @@
 
 # 👋 Hey there, I’m Ram Franco
 
-🚀 Full Stack Developer | Exploring AI & Emerging Technologies | Innovation & Future-Ready Solutions
+🚀 Full Stack Developer | AI Solutions Architect | Automation Specialist
 
-💡 Always learning, building, and pushomg boundaries. <br>
+💡 Always learning, building, and pushing boundaries. <br>
 🤝 Let's Build Something Extraordinary.
 
 ## 🌐 Socials:
