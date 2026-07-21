@@ -2,10 +2,10 @@
 
 # 👋 Hey there, I’m Ram Franco
 
-🚀 Full Stack Developer | Exploring AI & Emerging Technologies | Passionate About Innovation & Future-Ready Solutions
+🚀 Full Stack Developer | Exploring AI & Emerging Technologies | Innovation & Future-Ready Solutions
 
-💡 Always eager to learn, build, and push boundaries in tech. <br>
-🤝 Let's collaborate on impactful projects.
+💡 Always learning, building, and pushomg boundaries. <br>
+🤝 Let's Build Something Extraordinary.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-franco) 
