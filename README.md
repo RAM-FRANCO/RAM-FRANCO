@@ -7,8 +7,8 @@ I build production-grade web apps, mobile solutions, and AI automation systems �
 📄 **[Resume](https://drive.google.com/file/d/1yMYDU7Ph0uRMxZ1-uVyGq2ZLJHOo7yMl/view)**
 
 ## What I do
-- **Full-stack web** — Next.js, React, TypeScript, Node, PostgreSQL
-- **AI & automation** — LLM integrations, Model Context Protocol (MCP), agentic workflows, RAG
+- **Full-stack AI engineering** — AI woven into real products, end to end (Next.js, React, TypeScript, Node, PostgreSQL)
+- **AI systems & automation** — LLM integrations, RAG, agentic workflows, Model Context Protocol (MCP); orchestration with LangChain, LangGraph, and Mastra; workflow automation with n8n and Make.com
 - **Cloud & production** — AWS, Vercel, CI/CD, security-hardened deploys
 
 ## Selected work
