@@ -3,8 +3,8 @@
 **Full Stack AI Engineer & AI Automation Engineer based in Manila, Philippines.**
 I build production-grade web apps, mobile solutions, and AI automation systems — available locally and remotely.
 
-🌐 **Portfolio:** https://ramfranco.vercel.app <br>
-📄 **Resume:** https://ramfranco.vercel.app/resume/ram-franco-resume.pdf
+🌐 **[Portfolio](https://ramfranco.vercel.app)**  <br>
+📄 **[Resume](https://drive.google.com/file/d/1yMYDU7Ph0uRMxZ1-uVyGq2ZLJHOo7yMl/view)**
 
 ## What I do
 - **Full-stack web** — Next.js, React, TypeScript, Node, PostgreSQL
