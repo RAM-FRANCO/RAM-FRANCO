@@ -1,4 +1,30 @@
-<!--💫 About Me-->
+# Ram Franco — Full Stack AI Engineer
+
+**Full Stack AI Engineer & AI Automation Engineer based in Manila, Philippines.**
+I build production-grade web apps, mobile solutions, and AI automation systems — available locally and remotely.
+
+🌐 **Portfolio:** https://ramfranco.vercel.app
+📄 **Resume:** https://ramfranco.vercel.app/resume/ram-franco-resume.pdf
+
+## What I do
+- **Full-stack web** — Next.js, React, TypeScript, Node, PostgreSQL
+- **AI & automation** — LLM integrations, Model Context Protocol (MCP), agentic workflows, RAG
+- **Cloud & production** — AWS, Vercel, CI/CD, security-hardened deploys
+
+## Selected work
+- **[All American Warehouse](https://ramfranco.vercel.app/projects/all-american-warehouse)** — industrial real-estate marketplace on Next.js + Strapi + Algolia, shipped in 8 weeks (Medianeth)
+- **[The Build Track](https://ramfranco.vercel.app/projects/build-track)** — multi-tenant construction PM SaaS, 9 unified modules (Medianeth)
+- **InboxServe** — AI ticket-triage behind a **14-min median first-reply** (vs. 51-min industry) for global Shopify brands → [details](https://ramfranco.vercel.app/about)
+- **[AI Investment Analysis Pipeline](https://ramfranco.vercel.app/projects/ai-investment-analysis-pipeline)** — real-estate meetings → investment memos via Whisper + RAG (Presaling)
+
+## Credentials
+- **[Anthropic — AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/ukfpgygxedne)**
+- **[Anthropic — Model Context Protocol (Advanced)](https://verify.skilljar.com/c/a6m2ar33qyam)**
+- **[AWS — Introduction to Generative AI](https://www.credly.com/badges/d56443b5-9bd3-4226-abfc-cf156e58ff8d/public_url)**
+- **[AWS — Introduction to Cloud 101](https://www.credly.com/badges/f28af815-f4c5-497e-bb83-b9c969b46a73)**
+- **Magna Cum Laude**, BS Information Technology — Bulacan State University
+
+<!--💫 About Me
 
 # 👋 Hey there, I’m Ram Franco
 
@@ -6,6 +32,7 @@
 
 💡 Always learning, building, and pushing boundaries. <br>
 🤝 Let's Build Something Extraordinary.
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-franco) 
