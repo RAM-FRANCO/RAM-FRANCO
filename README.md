@@ -12,10 +12,10 @@ I build production-grade web apps, mobile solutions, and AI automation systems �
 - **Cloud & production** — AWS, Vercel, CI/CD, security-hardened deploys
 
 ## Selected work
-- **[All American Warehouse](https://ramfranco.vercel.app/projects/all-american-warehouse)** — industrial real-estate marketplace on Next.js + Strapi + Algolia, shipped in 8 weeks (Medianeth)
-- **[The Build Track](https://ramfranco.vercel.app/projects/build-track)** — multi-tenant construction PM SaaS, 9 unified modules (Medianeth)
+- **[All American Warehouse](https://allamericanwarehouses.com)** — industrial real-estate marketplace on Next.js + Strapi + Algolia, shipped in 8 weeks (Medianeth)
+- **[The Build Track](https://ramfranco.vercel.app/projects)** — multi-tenant construction PM SaaS, 9 unified modules (Medianeth)
 - **[InboxServe](https://inboxserve.com)** — AI ticket-triage behind a **14-min median first-reply** (vs. 51-min industry) for global Shopify brands → [details](https://ramfranco.vercel.app/about)
-- **[AI Investment Analysis Pipeline](https://ramfranco.vercel.app/projects/ai-investment-analysis-pipeline)** — real-estate meetings → investment memos via Whisper + RAG (Presaling)
+- **[AI Investment Analysis Pipeline](https://ramfranco.vercel.app/projects)** — real-estate meetings → investment memos via Whisper + RAG (Presaling)
 
 ## Credentials
 - **[Anthropic — AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/ukfpgygxedne)**
